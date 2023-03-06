@@ -1,0 +1,42 @@
+.left-content{
+    width: 770px;
+    /* height: 1102px; */
+    top: 30px;
+    margin: 0 auto;
+}
+
+/* 文章标题处 */
+.content-top{
+    height: 129px;
+    width: 770px;
+    position: relative;
+}
+.title{
+    font-size: 28px;
+    color: rgb(244,90,64);
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* 文章顶部信息 */
+.infor{
+    font-size: 12px;
+    bottom: 40px;
+    position: absolute;
+    margin-left: 28px;
+    color: #828388;
+}
+.infor li{
+    float:left;
+    margin-right: 18px;
+}
+
+/* 文章内容 */
+.article{
+    width: 714px;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-family: 黑体 ;
+    font-size: 20px;
+    line-height: 30px;
+}
